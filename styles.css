@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
 html, 
 body {
     margin: 0;
@@ -7,7 +9,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: 'Verdana';
+    font-family: 'Lato', sans-serif;
 }
 
 .image-container {
